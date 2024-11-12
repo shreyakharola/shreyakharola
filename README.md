@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shreyakharola
 - 👀 I’m interested in front-end an back-end
-- 🌱 I’m currently learning ML
 - 📫 How to reach me through my gmail- kharolashreya@gmail.com
 
 <!---
